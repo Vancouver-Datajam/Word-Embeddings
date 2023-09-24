@@ -19,7 +19,7 @@ ML: Vivian Weng
 
 EDA: Shannon
 
-Data Parsing: Sevy, Grace
+Data Parsing: Sevy Veeken, Grace
 
 Data Collection: Maisha
 
