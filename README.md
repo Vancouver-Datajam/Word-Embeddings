@@ -7,13 +7,13 @@ This repository is for the Vancouver Datajam 2023 Hackathon
 ## Project statement
 
 [Docs link](https://docs.google.com/document/d/1ddp0HIiqsRI34lSTFTTODRwa6CtUydmuEtkwK--4S7Q/edit#heading=h.wvnno6t3l3j1)
-
+[Presentation](https://docs.google.com/presentation/d/1a2_Iku8BHFdlpMn7JwIkwjWBJbb5soot4exXmdInKDw/edit?usp=sharing)
 
 ## Project team members
 
 Team lead: Khizr Ali Pardhan
 
-Mentor:
+Mentor: Vibhuti
 
 ML: Vivian Weng
 
@@ -23,15 +23,10 @@ Data Parsing: Sevy, Grace
 
 Data Collection: Maisha
 
-Documentation:
+Documentation: Khizr Ali Pardhan
 
-Scripting:
 
-Modelling: 
-
-Sanity checking: 
-
-## Vancouver Datajam 2021 Schedule:
+## Vancouver Datajam 2023 Schedule
 
 ### Main page: https://vancouverdatajam.ca/
 #### Event format: 100% online
