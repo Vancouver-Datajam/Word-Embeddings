@@ -15,6 +15,14 @@ Team lead: Khizr Ali Pardhan
 
 Mentor:
 
+ML: Vivian Weng
+
+EDA: Shannon
+
+Data Parsing: Sevy, Grace
+
+Data Collection: Maisha
+
 Documentation:
 
 Scripting:
